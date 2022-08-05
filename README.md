@@ -1,20 +1,20 @@
-# Street Style Landing Page
+# Law Home Page
 
-##### Published Url:-[Street Style Landing Page](https://earnest-sorbet-e4c52f.netlify.app/)
+##### Published Url:-[Law Home Page](https://earnest-sorbet-e4c52f.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/StreetStyleLandingPage_1/blob/main/1.png" height="60%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/LawHomePage_3/blob/main/3.png" height="60%" width="75%"/>
 
 
 ### Knowledge Gained:-
 
   
-  - Float
-  - Navigation Menu Positioning
-  - Type of Selectors
+  - Footer
+  - Background Image dimensions
+  - View port height and width
   - Image Overlap
   
-### Development Efforts:- 3.50 hours
+### Development Efforts:- 3 hours
   
 ### Technologies:-
 <span>
