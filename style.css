@@ -1,0 +1,182 @@
+
+ body{
+    background-image: url(assets/bg1.jpg);
+    background-repeat: no-repeat;
+   
+    /* background-size: 1242px 640px; */
+    background-size: 100vw 100vh;
+    
+}      
+
+/* div.hero { background: url(assets/pexels-ekaterina-bolovtsova-6077326.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }  */
+
+
+*{
+    margin:0;
+    padding:0;
+    font-family:'Red Rose';
+}
+
+
+
+nav{
+    width:100%;
+    background-color: #2B2922;
+    margin-left: 0%;
+    height: 60px;
+    margin-top: 0px;
+    
+  
+}
+
+div.hero{
+    width: 100%;
+    height:100px;
+    background-color: #2B2922;
+}
+
+div.hero>h1
+{
+    color: white;
+    font-size: 37px;
+    width: 35%;
+    float: left;
+    height: 100px;
+    margin-left: 10%;
+   
+}
+div.hero>p
+{
+    color: #fcfcfc;
+    font-size: 12px;
+    width: 27%;
+    float: left;
+    margin-left: 7%;
+    height: 130px;
+    padding-top: 30px;
+}
+
+
+nav>div:nth-child(1)
+{
+    width:10%;
+    float: left;
+    height: 60px;
+    margin-left: 10%;
+}
+nav>div:nth-child(1)>img
+
+{
+    float: left;
+    width: 83px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+nav>div:nth-child(2)
+{
+    width:50%;
+    float: left;
+    height: 60px;
+
+}
+
+nav>div:nth-child(2)>ul
+{
+    height: 60px;
+    width:90%;
+    margin-left:30%;
+
+    list-style-type: none;
+}
+
+nav>div:nth-child(2)>ul li
+{
+    float: left;
+    height: 60px;
+    width: 20%;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+   
+    font-size: 13px
+}
+nav>div:nth-child(2)>ul>li:nth-child(4)
+{
+    width: 40%;
+}
+nav>div:nth-child(2)>ul>li:nth-child(1)
+{
+    font-weight: bold;
+   
+}
+
+nav>div:nth-child(3)
+{
+    width:10%;
+    float: right;
+    height: 60px;
+    margin-right: 10%;
+    text-align: center;
+    line-height: 55px;
+}
+
+nav>div:nth-child(3) button
+{
+    background-color: rgb(255, 0, 0,0);
+    border: 1px solid #6E632D;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #6E632D;
+    font-size: 13px;
+    
+}
+
+div.bottom
+{
+width: 100%;
+position: absolute;
+bottom: 0px;
+background-color:#2B2922;
+z-index:1;
+height:50px;
+}
+
+div.leftd{
+    float: right;
+    height: 50px;
+    width: 60px;
+    background-color: #A08F36;
+   
+    
+}
+
+div.leftd>p{
+    width: 30px;
+    height: 30px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+div.rightd{
+    float: right;
+    height: 50px;
+    width: 60px;
+    background-color: #39372D;
+}
+div.rightd>p{
+    width: 30px;
+    height: 30px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
